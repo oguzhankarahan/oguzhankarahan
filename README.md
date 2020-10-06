@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/oguzhankarahan)
 
-- 🤝 I’m looking for help with [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
+- 🤝 I’m looking for help with [sofienlp/pepper-robot](http://github.com/oguzhankarahan)
 
 - 👨‍💻 All of my projects are available at [oguzhankarahan.com](http://github.com/oguzhankarahan)
 
